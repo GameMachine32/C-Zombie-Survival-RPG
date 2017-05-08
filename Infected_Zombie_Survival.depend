@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1494220036 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	"base.h"
+
+1494207620 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\base.h
+
+1494220083 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\base.cpp
+	"base.h"
+	"journey.h"
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1494215731 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\journey.h
+
+1494265149 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\journey.cpp
+	"journey.h"
+	"base.h"
+	"zombie.h"
+	"town.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1494213965 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\zombie.h
+
+1494265353 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\zombie.cpp
+	"zombie.h"
+	"journey.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1494265149 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\town.h
+
+1494265393 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\town.cpp
+	"town.h"
+	"journey.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
