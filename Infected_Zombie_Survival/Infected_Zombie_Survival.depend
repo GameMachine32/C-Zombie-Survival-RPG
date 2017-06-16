@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1494361914 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	"base.h"
+	"resources.h"
+
+1494207620 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\base.h
+
+1494354429 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\base.cpp
+	"base.h"
+	"journey.h"
+	"resources.h"
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1494215731 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\journey.h
+
+1494355022 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\journey.cpp
+	"journey.h"
+	"base.h"
+	"zombie.h"
+	"town.h"
+	"resources.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1494213965 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\zombie.h
+
+1494363245 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\zombie.cpp
+	"zombie.h"
+	"journey.h"
+	"resources.h"
+	"base.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1494265149 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\town.h
+
+1494306477 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\town.cpp
+	"town.h"
+	"journey.h"
+	"resources.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1494283583 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\globalvars.h
+
+1494283474 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\globalvars.cpp
+	"globalvars.h"
+
+1494306232 c:\users\simon.manske\documents\programming\infected_zombie_survival\include\resources.h
+
+1494353542 source:c:\users\simon.manske\documents\programming\infected_zombie_survival\src\resources.cpp
+	"resources.h"
+	<windows.h>
+
+1495174438 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	"base.h"
+	"resources.h"
+	"menu.h"
+
+1494207620 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\base.h
+
+1495417488 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\resources.h
+
+1495416975 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\journey.cpp
+	"journey.h"
+	"base.h"
+	"zombie.h"
+	"town.h"
+	"resources.h"
+	"save.h"
+	"boss.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1494215731 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\journey.h
+
+1494213965 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\zombie.h
+
+1494265149 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\town.h
+
+1494969420 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\resources.cpp
+	"resources.h"
+	<windows.h>
+
+1495471128 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\town.cpp
+	"town.h"
+	"journey.h"
+	"resources.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1495416182 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\zombie.cpp
+	"zombie.h"
+	"journey.h"
+	"resources.h"
+	"base.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1495174526 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\base.cpp
+	"base.h"
+	"journey.h"
+	"resources.h"
+	"save.h"
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1495175060 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\menu.cpp
+	"menu.h"
+	"resources.h"
+	"base.h"
+	"save.h"
+	<iostream>
+	<windows.h>
+
+1494879624 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\menu.h
+
+1495174438 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\save.h
+
+1495176039 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\save.cpp
+	"save.h"
+	"resources.h"
+	"base.h"
+	"journey.h"
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1496158160 source:c:\users\simon.manske\documents\programming\java\infected_zombie_survival\src\boss.cpp
+	"boss.h"
+	"resources.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1495416178 c:\users\simon.manske\documents\programming\java\infected_zombie_survival\include\boss.h
+
